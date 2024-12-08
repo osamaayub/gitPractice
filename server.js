@@ -1,11 +1,8 @@
-import express from "express";
+const express=require("express");
+require("dotenv").config();
 
-import  "dotenv/config" ;
 
-//make an express application
 const app=express();
-
-
 
 
 
