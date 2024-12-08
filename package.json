@@ -15,5 +15,18 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "nodemon": "^3.1.7"
-  }
+
+  },
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "mastering-git",
+  "description": "",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+
 }
