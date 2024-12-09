@@ -16,3 +16,7 @@ let a ,b;
 a=5;
 b=6;
 const sum=a+b
+
+function Sum(a,b){
+  return a+b;
+}
