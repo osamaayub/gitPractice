@@ -1,3 +1,6 @@
+
 ## testing git through GUI
 
-## Git Practice 
+## Git Practice
+## testing git through GUI
+
